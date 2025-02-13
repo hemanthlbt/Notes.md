@@ -93,7 +93,7 @@ console.log(char1 && char2)
 - Function declaration
 - Function expression
 - Arrow function
-- 
+- Timeout function
 ```js
 //Function declaration
 Function losangeles()  {
@@ -118,11 +118,19 @@ console.log("This  is a arrow function!")
 
 arrow()
 
+//Here is an example for the settimeout function
+setTimeout(function(){console.log("Read this after 5 seconds")},5000);
+
+
 ```
 
 ### objects
+### There are multiple ways to create an object.
+- Object literal way
+- 
 
 ```js
+//Object literal way
 let southstates = {
 
 state1 : "Andhrapradesh",
