@@ -119,3 +119,21 @@ console.log("This  is a arrow function!")
 arrow()
 
 ```
+
+### objects
+
+```js
+let southstates = {
+
+state1 : "Andhrapradesh",
+state2 : "Telangana",
+state3 : "tamilnadu",
+state4 : "Kerala",
+state5 : "Karnataka"
+
+}
+
+console.log(southstates)
+//if you want a specific properity then console.log
+console.log(southstates.karnataka)
+```
