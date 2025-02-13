@@ -105,7 +105,7 @@ losangeles()
 //Function expression
 
 let california  = function() {
-console.log("I am in the city of losangleles, state california,USA")
+console.log("I am in the city of losangeles, state california,USA")
 }
 
 california()
