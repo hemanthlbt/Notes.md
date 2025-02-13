@@ -75,3 +75,14 @@ console.log(boogymann + johnwick)
 // It throws a error because the boogyman spelling is wrong.
 //Silly java script.
 ```
+### Strings
+
+```js
+let char1 = "sindhu reddy"
+let char2 = "samara saigal"
+let char3 = "eshanarang"
+let char4 = "lamborgini"
+
+console.log(char1 && char2)
+
+```
