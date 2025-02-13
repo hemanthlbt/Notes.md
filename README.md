@@ -85,4 +85,37 @@ let char4 = "lamborgini"
 
 console.log(char1 && char2)
 
+///output
+//It prints out sindhu reddy and samara saigal
+```
+
+### Functions
+- Function declaration
+- Function expression
+- Arrow function
+- 
+```js
+//Function declaration
+Function losangeles()  {
+console.log("I am in califirnia state,USA")
+}
+
+losangeles()
+
+//Function expression
+
+let california  = function() {
+console.log("I am in the city of losangleles, state california,USA")
+}
+
+california()
+
+//Arrow function.
+
+let arrow  = ()=> {
+console.log("This  is a arrow function!")
+}
+
+arrow()
+
 ```
