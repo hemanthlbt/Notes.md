@@ -145,3 +145,47 @@ console.log(southstates)
 //if you want a specific properity then console.log
 console.log(southstates.karnataka)
 ```
+### Arrays in JavaScript!
+
+```js
+//array is a data structure used to store a collection of values.
+//
+
+const numberarr = [1,2,3,4,5,6,7]
+const namearr = ["kajal","tammana","deepika","samantha","rakul"]
+const interarr = ["scarlet","elizibitholsen","dokotajohnson","emmastone"]
+const mixedarr = ["samantha",1,2,"aditi bhatia"]
+console.log(numberarr)
+console.log(namearr)
+console.log(interarr)
+// To access the array just console the name of the arrray
+console.log(numberarr)
+// to get he specific index of the array just console it like..
+console.log(namearr[2])
+// array index follows like this.
+//The first index starts with 0,1,2,3,4....
+```
+
+```js
+console.log("code french fries")
+console.log("Learning from my own mistakes")
+console.log("Yesterday i've learned a very big lesson")
+
+```
+
+```js
+//if else
+let hemanth = 200;
+let kumar =300;
+let lingabathina = 400;
+if (hemanth == kumar) {
+console.log("True")
+}
+else
+console.log("not true")
+```
+
+
+
+
+
