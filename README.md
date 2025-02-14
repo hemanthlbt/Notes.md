@@ -185,8 +185,18 @@ console.log("True")
 else
 console.log("not true")
 ```
+### Asynchronous java script
+1.Synchronous java script 
+```js
+console.log("hemanth")
+document.write("Hemanth kuamr lingabathina")
+document.write("prabhas")
+```
 
-
+```.md
+In the above code that code gets executed line by line that is synchronous java script.And that is synchronous java script.
+Just goes by the name synchronous.
+```
 
 
 
